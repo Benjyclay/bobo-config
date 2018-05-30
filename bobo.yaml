@@ -1,6 +1,6 @@
-servers:
+hosts:
   - name: 'production'
-    host: '1.1.1.1'
+    address: '1.1.1.1'
 
   - name: 'staging'
-    host: '1.1.1.1'
+    address: '1.1.1.1'
